@@ -1,2 +1,4 @@
 # Atividade-Avaliativa
-Arquivo readme sobre o projeto da aula 3 (cronograma)
+  Aula 3:
+
+  Repositório teste para as aulas e atividades de Tecnologias em T.I.
